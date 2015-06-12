@@ -1,0 +1,1249 @@
+{
+  "campfire": {
+    "prettyName": "Campfire",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "stoneHatchet": {
+    "prettyName": "Stone Hatchet",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "spear": {
+    "prettyName": "Spear",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "note": {
+    "prettyName": "Note",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "clothPants": {
+    "prettyName": "Cloth Pants",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "clothShirt": {
+    "prettyName": "Cloth Shirt",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "thatchFoundation": {
+    "prettyName": "Thatch Foundation",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "thatchDoorframe": {
+    "prettyName": "Thatch Doorframe",
+    "cost": 3,
+    "level": 2,
+    "depends": []
+  },
+  "waterskin": {
+    "prettyName": "Waterskin",
+    "cost": 6,
+    "level": 3,
+    "depends": []
+  },
+  "clothGloves": {
+    "prettyName": "Cloth Gloves",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "clothBoots": {
+    "prettyName": "Cloth Boots",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "clothHat": {
+    "prettyName": "Cloth Hat",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "woodenSign": {
+    "prettyName": "Wooden Sign",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "hideSleepingBag": {
+    "prettyName": "Hide Sleeping Bag",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "thatchRoof": {
+    "prettyName": "Thatch Roof",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "thatchWall": {
+    "prettyName": "Thatch Wall",
+    "cost": 3,
+    "level": 3,
+    "depends": []
+  },
+  "thatchDoor": {
+    "prettyName": "Thatch Door",
+    "cost": 3,
+    "level": 3,
+    "depends": [
+      "thatchDoorframe"
+    ]
+  },
+  "slingshot": {
+    "prettyName": "Slingshot",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "storageBox": {
+    "prettyName": "Storage Box",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "simpleBed": {
+    "prettyName": "Simple Bed",
+    "cost": 8,
+    "level": 5,
+    "depends": [
+      "hideSleepingBag"
+    ]
+  },
+  "phiomiaSaddle": {
+    "prettyName": "Phiomia Saddle",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "mortarAndPestle": {
+    "prettyName": "Mortar and Pestle",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "sparkpowder": {
+    "prettyName": "Sparkpowder",
+    "cost": 3,
+    "level": 5,
+    "depends": []
+  },
+  "bloodExtractionSyringe": {
+    "prettyName": "Blood Extraction Syringe",
+    "cost": 6,
+    "level": 5,
+    "depends": [
+      "waterskin"
+    ]
+  },
+  "narcotic": {
+    "prettyName": "Narcotic",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "flag": {
+    "prettyName": "Flag",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "standingTorch": {
+    "prettyName": "Standing Torch",
+    "cost": 6,
+    "level": 5,
+    "depends": []
+  },
+  "woodenFoundation": {
+    "prettyName": "Wooden Foundation",
+    "cost": 9,
+    "level": 5,
+    "depends": [
+      "thatchFoundation"
+    ]
+  },
+  "woodenWall": {
+    "prettyName": "Wooden Wall",
+    "cost": 9,
+    "level": 5,
+    "depends": [
+      "thatchWall"
+    ]
+  },
+  "cookingPot": {
+    "prettyName": "Cooking Pot",
+    "cost": 9,
+    "level": 10,
+    "depends": [
+      "campfire"
+    ]
+  },
+  "stimulant": {
+    "prettyName": "Stimulant",
+    "cost": 6,
+    "level": 10,
+    "depends": []
+  },
+  "gunpowder": {
+    "prettyName": "Gunpowder",
+    "cost": 3,
+    "level": 10,
+    "depends": [
+      "sparkpowder"
+    ]
+  },
+  "flareGun": {
+    "prettyName": "Flare Gun",
+    "cost": 6,
+    "level": 10,
+    "depends": [
+      "gunpowder"
+    ]
+  },
+  "spyglass": {
+    "prettyName": "Spyglass",
+    "cost": 6,
+    "level": 10,
+    "depends": []
+  },
+  "paintbrush": {
+    "prettyName": "Paintbrush",
+    "cost": 3,
+    "level": 10,
+    "depends": []
+  },
+  "smallCropPlot": {
+    "prettyName": "Small Crop Plot",
+    "cost": 9,
+    "level": 10,
+    "depends": []
+  },
+  "parasaurSaddle": {
+    "prettyName": "Parasaur Saddle",
+    "cost": 9,
+    "level": 10,
+    "depends": []
+  },
+  "stoneIrrigationPipe-Intake": {
+    "prettyName": "Stone Irrigation pipe - Intake",
+    "cost": 6,
+    "level": 10,
+    "depends": []
+  },
+  "stoneIrrigationPipe-Straight": {
+    "prettyName": "Stone Irrigation Pipe - Straight",
+    "cost": 3,
+    "level": 10,
+    "depends": [
+      "stoneIrrigationPipe-Intake"
+    ]
+  },
+  "stoneIrrigationPipe-Tap": {
+    "prettyName": "Stone Irrigation Pipe - Tap",
+    "cost": 6,
+    "level": 10,
+    "depends": [
+      "stoneIrrigationPipe-Intake"
+    ]
+  },
+  "wallSign": {
+    "prettyName": "Wall Sign",
+    "cost": 3,
+    "level": 10,
+    "depends": [
+      "woodenSign"
+    ]
+  },
+  "woodenCeiling": {
+    "prettyName": "Wooden Ceiling",
+    "cost": 6,
+    "level": 10,
+    "depends": [
+      "thatchRoof"
+    ]
+  },
+  "woodenDoorframe": {
+    "prettyName": "Wooden Doorframe",
+    "cost": 6,
+    "level": 10,
+    "depends": [
+      "thatchDoorframe",
+      "woodenWall"
+    ]
+  },
+  "woodenDoor": {
+    "prettyName": "Wooden Door",
+    "cost": 6,
+    "level": 10,
+    "depends": [
+      "thatchDoor",
+      "woodenDoorframe"
+    ]
+  },
+  "woodenRamp": {
+    "prettyName": "Wooden Ramp",
+    "cost": 3,
+    "level": 10,
+    "depends": [
+      "woodenCeiling"
+    ]
+  },
+  "hidePants": {
+    "prettyName": "Hide Pants",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "clothPants"
+    ]
+  },
+  "hideShirt": {
+    "prettyName": "Hide Shirt",
+    "cost": 6,
+    "level": 15,
+    "depends": [
+      "clothShirt"
+    ]
+  },
+  "bow": {
+    "prettyName": "Bow",
+    "cost": 12,
+    "level": 15,
+    "depends": [
+      "slingshot"
+    ]
+  },
+  "stoneArrow": {
+    "prettyName": "Stone Arrow",
+    "cost": 3,
+    "level": 15,
+    "depends": []
+  },
+  "largeStorageBox": {
+    "prettyName": "Large Storage Box",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "storageBox"
+    ]
+  },
+  "parachute": {
+    "prettyName": "Parachute",
+    "cost": 6,
+    "level": 15,
+    "depends": []
+  },
+  "raptorSaddle": {
+    "prettyName": "Raptor Saddle",
+    "cost": 9,
+    "level": 15,
+    "depends": []
+  },
+  "stoneIrrigationPipe-Intersection": {
+    "prettyName": "Stone Irrigation Pipe - Intersection",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "stoneIrrigationPipe-Straight"
+    ]
+  },
+  "stoneIrrigationPipe-Inclined": {
+    "prettyName": "Stone Irrigation Pipe - Inclined",
+    "cost": 6,
+    "level": 15,
+    "depends": [
+      "stoneIrrigationPipe-Straight"
+    ]
+  },
+  "stoneIrrigationPipe-Vertical": {
+    "prettyName": "Stone Irrigation Pipe - Vertical",
+    "cost": 6,
+    "level": 15,
+    "depends": [
+      "stoneIrrigationPipe-Straight"
+    ]
+  },
+  "compostBin": {
+    "prettyName": "Compost Bin",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "storageBox"
+    ]
+  },
+  "woodenBillboard": {
+    "prettyName": "Wooden Billboard",
+    "cost": 6,
+    "level": 15,
+    "depends": [
+      "woodenSign"
+    ]
+  },
+  "woodenFenceFoundation": {
+    "prettyName": "Wooden Fence Foundation",
+    "cost": 6,
+    "level": 15,
+    "depends": [
+      "woodenFoundation"
+    ]
+  },
+  "woodenPillar": {
+    "prettyName": "Wooden Pillar",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "woodenFoundation"
+    ]
+  },
+  "woodenHatchFrame": {
+    "prettyName": "Wooden HatchFrame",
+    "cost": 9,
+    "level": 15,
+    "depends": [
+      "woodenCeiling"
+    ]
+  },
+  "woodenLadder": {
+    "prettyName": "Wooden Ladder",
+    "cost": 6,
+    "level": 15,
+    "depends": []
+  },
+  "hideGloves": {
+    "prettyName": "Hide Gloves",
+    "cost": 9,
+    "level": 20,
+    "depends": [
+      "clothGloves"
+    ]
+  },
+  "hideBoots": {
+    "prettyName": "Hide Boots",
+    "cost": 9,
+    "level": 20,
+    "depends": [
+      "clothBoots"
+    ]
+  },
+  "hideHat": {
+    "prettyName": "Hide Hat",
+    "cost": 12,
+    "level": 20,
+    "depends": [
+      "clothHat"
+    ]
+  },
+  "tranqArrow": {
+    "prettyName": "Tranq Arrow",
+    "cost": 15,
+    "level": 20,
+    "depends": [
+      "stoneArrow",
+      "narcotic"
+    ]
+  },
+  "refiningForge": {
+    "prettyName": "Refining Forge",
+    "cost": 21,
+    "level": 20,
+    "depends": [
+      "campfire"
+    ]
+  },
+  "trikeSaddle": {
+    "prettyName": "Trike Saddle",
+    "cost": 12,
+    "level": 20,
+    "depends": []
+  },
+  "dinosaurGateway": {
+    "prettyName": "Dinosaur Gateway",
+    "cost": 9,
+    "level": 20,
+    "depends": [
+      "woodenDoorframe"
+    ]
+  },
+  "dinosaurGate": {
+    "prettyName": "Dinosaur Gate",
+    "cost": 6,
+    "level": 20,
+    "depends": [
+      "dinosaurGateway"
+    ]
+  },
+  "woodenCatwalk": {
+    "prettyName": "Wooden Catwalk",
+    "cost": 12,
+    "level": 20,
+    "depends": [
+      "woodenCeiling"
+    ]
+  },
+  "woodenTrapdoor": {
+    "prettyName": "Wooden Trapdoor",
+    "cost": 9,
+    "level": 20,
+    "depends": [
+      "woodenHatchFrame"
+    ]
+  },
+  "woodenWindowframe": {
+    "prettyName": "Wooden Windowframe",
+    "cost": 12,
+    "level": 20,
+    "depends": [
+      "woodenWall"
+    ]
+  },
+  "smithy": {
+    "prettyName": "Smithy",
+    "cost": 16,
+    "level": 25,
+    "depends": []
+  },
+  "metalPick": {
+    "prettyName": "Metal Pick",
+    "cost": 12,
+    "level": 25,
+    "depends": []
+  },
+  "metalHatchet": {
+    "prettyName": "Metal Hatchet",
+    "cost": 12,
+    "level": 25,
+    "depends": [
+      "stoneHatchet"
+    ]
+  },
+  "pike": {
+    "prettyName": "Pike",
+    "cost": 18,
+    "level": 25,
+    "depends": [
+      "spear"
+    ]
+  },
+  "compass": {
+    "prettyName": "Compass",
+    "cost": 16,
+    "level": 25,
+    "depends": []
+  },
+  "pulmonoscorpiusSaddle": {
+    "prettyName": "Pulmonoscorpius Saddle",
+    "cost": 12,
+    "level": 25,
+    "depends": []
+  },
+  "carbonemysSaddle": {
+    "prettyName": "Carbonemys Saddle",
+    "cost": 12,
+    "level": 25,
+    "depends": []
+  },
+  "mediumCropPlot": {
+    "prettyName": "Medium Crop Plot",
+    "cost": 12,
+    "level": 25,
+    "depends": [
+      "smallCropPlot"
+    ]
+  },
+  "cementingPaste": {
+    "prettyName": "Cementing Paste",
+    "cost": 3,
+    "level": 25,
+    "depends": []
+  },
+  "waterTank": {
+    "prettyName": "Water Tank",
+    "cost": 7,
+    "level": 25,
+    "depends": []
+  },
+  "metalSign": {
+    "prettyName": "Metal Sign",
+    "cost": 15,
+    "level": 25,
+    "depends": [
+      "woodenSign"
+    ]
+  },
+  "woodenWindow": {
+    "prettyName": "Wooden Window",
+    "cost": 12,
+    "level": 25,
+    "depends": [
+      "woodenWindowframe"
+    ]
+  },
+  "chitinLeggings": {
+    "prettyName": "Chitin Leggings",
+    "cost": 15,
+    "level": 30,
+    "depends": [
+      "hidePants"
+    ]
+  },
+  "chitinChestpiece": {
+    "prettyName": "Chitin Chestpiece",
+    "cost": 18,
+    "level": 30,
+    "depends": [
+      "hideShirt"
+    ]
+  },
+  "chitinHelmet": {
+    "prettyName": "Chitin Helmet",
+    "cost": 18,
+    "level": 30,
+    "depends": [
+      "hideHat"
+    ]
+  },
+  "waterJar": {
+    "prettyName": "Water Jar",
+    "cost": 12,
+    "level": 30,
+    "depends": [
+      "waterskin"
+    ]
+  },
+  "simplePistol": {
+    "prettyName": "Simple Pistol",
+    "cost": 15,
+    "level": 30,
+    "depends": [
+      "flareGun"
+    ]
+  },
+  "scopeAttachment": {
+    "prettyName": "Scope Attachment",
+    "cost": 13,
+    "level": 30,
+    "depends": [
+      "spyglass"
+    ]
+  },
+  "simpleBullet": {
+    "prettyName": "Simple Bullet",
+    "cost": 6,
+    "level": 30,
+    "depends": [
+      "gunpowder"
+    ]
+  },
+  "stegoSaddle": {
+    "prettyName": "Stego Saddle",
+    "cost": 15,
+    "level": 30,
+    "depends": []
+  },
+  "grenade": {
+    "prettyName": "Grenade",
+    "cost": 20,
+    "level": 30,
+    "depends": [
+      "gunpowder"
+    ]
+  },
+  "metalWallSign": {
+    "prettyName": "Metal Wall Sign",
+    "cost": 6,
+    "level": 30,
+    "depends": [
+      "wallSign",
+      "metalSign"
+    ]
+  },
+  "metalFoundation": {
+    "prettyName": "Metal Foundation",
+    "cost": 24,
+    "level": 30,
+    "depends": [
+      "woodenFoundation"
+    ]
+  },
+  "metalWall": {
+    "prettyName": "Metal Wall",
+    "cost": 15,
+    "level": 30,
+    "depends": [
+      "woodenWall"
+    ]
+  },
+  "metalDoorframe": {
+    "prettyName": "Metal Doorframe",
+    "cost": 24,
+    "level": 30,
+    "depends": [
+      "woodenDoorframe",
+      "metalWall"
+    ]
+  },
+  "chitinGauntlets": {
+    "prettyName": "Chitin Gauntlets",
+    "cost": 15,
+    "level": 35,
+    "depends": [
+      "hideGloves"
+    ]
+  },
+  "chitinBoots": {
+    "prettyName": "Chitin Boots",
+    "cost": 15,
+    "level": 35,
+    "depends": [
+      "hideBoots"
+    ]
+  },
+  "longneckRifle": {
+    "prettyName": "Longneck Rifle",
+    "cost": 18,
+    "level": 35,
+    "depends": [
+      "flareGun"
+    ]
+  },
+  "simpleRifleAmmo": {
+    "prettyName": "Simple Rifle Ammo",
+    "cost": 6,
+    "level": 35,
+    "depends": [
+      "gunpowder"
+    ]
+  },
+  "largeCropPlot": {
+    "prettyName": "Large Crop Plot",
+    "cost": 15,
+    "level": 35,
+    "depends": [
+      "mediumCropPlot"
+    ]
+  },
+  "pteranodonSaddle": {
+    "prettyName": "Pteranodon Saddle",
+    "cost": 15,
+    "level": 35,
+    "depends": []
+  },
+  "sarcoSaddle": {
+    "prettyName": "Sarco Saddle",
+    "cost": 15,
+    "level": 35,
+    "depends": []
+  },
+  "shotgun": {
+    "prettyName": "Shotgun",
+    "cost": 18,
+    "level": 35,
+    "depends": [
+      "flareGun"
+    ]
+  },
+  "simpleShotgunAmmo": {
+    "prettyName": "Simple Shotgun Ammo",
+    "cost": 6,
+    "level": 35,
+    "depends": [
+      "gunpowder"
+    ]
+  },
+  "metalPillar": {
+    "prettyName": "Metal Pillar",
+    "cost": 18,
+    "level": 35,
+    "depends": [
+      "metalFoundation",
+      "woodenPillar"
+    ]
+  },
+  "metalCeiling": {
+    "prettyName": "Metal Ceiling",
+    "cost": 15,
+    "level": 35,
+    "depends": [
+      "woodenCeiling"
+    ]
+  },
+  "metalDoor": {
+    "prettyName": "Metal Door",
+    "cost": 12,
+    "level": 35,
+    "depends": [
+      "metalDoorframe",
+      "woodenDoor"
+    ]
+  },
+  "metalRamp": {
+    "prettyName": "Metal Ramp",
+    "cost": 12,
+    "level": 35,
+    "depends": [
+      "woodenRamp",
+      "metalCeiling"
+    ]
+  },
+  "fabricator": {
+    "prettyName": "Fabricator",
+    "cost": 24,
+    "level": 40,
+    "depends": [
+      "smithy"
+    ]
+  },
+  "silencer": {
+    "prettyName": "Silencer",
+    "cost": 13,
+    "level": 40,
+    "depends": []
+  },
+  "ankyloSaddle": {
+    "prettyName": "Ankylo Saddle",
+    "cost": 18,
+    "level": 40,
+    "depends": []
+  },
+  "mammothSaddle": {
+    "prettyName": "Mammoth Saddle",
+    "cost": 18,
+    "level": 40,
+    "depends": []
+  },
+  "metalIrigationPipe-Tap": {
+    "prettyName": "Metal Irigation Pipe - Tap",
+    "cost": 18,
+    "level": 45,
+    "depends": [
+      "metalIrigationPipe-Straight",
+      "stoneIrrigationPipe-Tap"
+    ]
+  },
+  "metalIrigationPipe-Straight": {
+    "prettyName": "Metal Irigation Pipe - Straight",
+    "cost": 12,
+    "level": 40,
+    "depends": [
+      "metalIrigationPipe-Tap",
+      "stoneIrrigationPipe-Straight"
+    ]
+  },
+  "metalHatchframe": {
+    "prettyName": "Metal Hatchframe",
+    "cost": 18,
+    "level": 40,
+    "depends": [
+      "metalCeiling",
+      "woodenHatchFrame"
+    ]
+  },
+  "metalTrapdoor": {
+    "prettyName": "Metal Trapdoor",
+    "cost": 14,
+    "level": 40,
+    "depends": [
+      "metalHatchframe",
+      "woodenTrapdoor"
+    ]
+  },
+  "metalFenceFoundation": {
+    "prettyName": "Metal Fence Foundation",
+    "cost": 12,
+    "level": 40,
+    "depends": [
+      "metalFoundation",
+      "woodenFenceFoundation"
+    ]
+  },
+  "metalDinosaurGateway": {
+    "prettyName": "Metal Dinosaur Gateway",
+    "cost": 12,
+    "level": 40,
+    "depends": [
+      "metalDoorframe",
+      "dinosaurGateway"
+    ]
+  },
+  "metalDinosaurGate": {
+    "prettyName": "Metal Dinosaur Gate",
+    "cost": 8,
+    "level": 40,
+    "depends": [
+      "metalDinosaurGateway",
+      "dinosaurGate"
+    ]
+  },
+  "polymer": {
+    "prettyName": "Polymer",
+    "cost": 6,
+    "level": 40,
+    "depends": []
+  },
+  "electronics": {
+    "prettyName": "Electronics",
+    "cost": 6,
+    "level": 40,
+    "depends": []
+  },
+  "flakLeggings": {
+    "prettyName": "Flak Leggings",
+    "cost": 15,
+    "level": 45,
+    "depends": [
+      "chitinLeggings"
+    ]
+  },
+  "flakChestpiece": {
+    "prettyName": "Flak Chestpiece",
+    "cost": 18,
+    "level": 45,
+    "depends": [
+      "chitinChestpiece"
+    ]
+  },
+  "improvisedExplosiveDevice": {
+    "prettyName": "Improvised Explosive Device",
+    "cost": 30,
+    "level": 45,
+    "depends": [
+      "grenade"
+    ]
+  },
+  "metalIrrigationPipe-Intersection": {
+    "prettyName": "Metal Irrigation Pipe - Intersection",
+    "cost": 18,
+    "level": 45,
+    "depends": [
+      "metalIrigationPipe-Straight",
+      "stoneIrrigationPipe-Intersection"
+    ]
+  },
+  "metalIrigationPipe-Inclined": {
+    "prettyName": "Metal Irigation Pipe - Inclined",
+    "cost": 12,
+    "level": 45,
+    "depends": [
+      "metalIrigationPipe-Straight",
+      "stoneIrrigationPipe-Inclined"
+    ]
+  },
+  "metalIrigationPipe-Vertical": {
+    "prettyName": "Metal Irigation Pipe - Vertical",
+    "cost": 12,
+    "level": 45,
+    "depends": [
+      "metalIrigationPipe-Straight",
+      "stoneIrrigationPipe-Vertical"
+    ]
+  },
+  "megalodonSaddle": {
+    "prettyName": "Megalodon Saddle",
+    "cost": 18,
+    "level": 45,
+    "depends": []
+  },
+  "sabertoothSaddle": {
+    "prettyName": "Sabertooth Saddle",
+    "cost": 18,
+    "level": 45,
+    "depends": []
+  },
+  "metalWindowframe": {
+    "prettyName": "Metal Windowframe",
+    "cost": 18,
+    "level": 45,
+    "depends": [
+      "woodenWindowframe",
+      "metalWall"
+    ]
+  },
+  "metalLadder": {
+    "prettyName": "Metal Ladder",
+    "cost": 21,
+    "level": 45,
+    "depends": [
+      "woodenLadder"
+    ]
+  },
+  "flashlightAttachment": {
+    "prettyName": "Flashlight Attachment",
+    "cost": 18,
+    "level": 45,
+    "depends": []
+  },
+  "gPS": {
+    "prettyName": "GPS",
+    "cost": 21,
+    "level": 45,
+    "depends": [
+      "compass"
+    ]
+  },
+  "flakBoots": {
+    "prettyName": "Flak Boots",
+    "cost": 16,
+    "level": 50,
+    "depends": [
+      "chitinBoots"
+    ]
+  },
+  "flakGauntlets": {
+    "prettyName": "Flak Gauntlets",
+    "cost": 16,
+    "level": 50,
+    "depends": [
+      "chitinGauntlets"
+    ]
+  },
+  "flakHelmet": {
+    "prettyName": "Flak Helmet",
+    "cost": 20,
+    "level": 50,
+    "depends": [
+      "chitinHelmet"
+    ]
+  },
+  "metalBillboard": {
+    "prettyName": "Metal Billboard",
+    "cost": 15,
+    "level": 50,
+    "depends": [
+      "metalSign",
+      "woodenBillboard"
+    ]
+  },
+  "metalWindow": {
+    "prettyName": "Metal Window",
+    "cost": 18,
+    "level": 50,
+    "depends": [
+      "metalWindowframe",
+      "woodenWindow"
+    ]
+  },
+  "metalCatwalk": {
+    "prettyName": "Metal Catwalk",
+    "cost": 18,
+    "level": 50,
+    "depends": [
+      "metalCeiling",
+      "woodenCatwalk"
+    ]
+  },
+  "carnoSaddle": {
+    "prettyName": "Carno Saddle",
+    "cost": 21,
+    "level": 50,
+    "depends": []
+  },
+  "electricalGenerator": {
+    "prettyName": "Electrical Generator",
+    "cost": 24,
+    "level": 50,
+    "depends": []
+  },
+  "straightElectricalCable": {
+    "prettyName": "Straight Electrical Cable",
+    "cost": 16,
+    "level": 50,
+    "depends": [
+      "electricalGenerator"
+    ]
+  },
+  "electricalOutlet": {
+    "prettyName": "Electrical Outlet",
+    "cost": 16,
+    "level": 50,
+    "depends": [
+      "straightElectricalCable"
+    ]
+  },
+  "fabricatedPistol": {
+    "prettyName": "Fabricated Pistol",
+    "cost": 18,
+    "level": 50,
+    "depends": [
+      "waterJar"
+    ]
+  },
+  "advancedBullet": {
+    "prettyName": "Advanced Bullet",
+    "cost": 8,
+    "level": 50,
+    "depends": [
+      "simpleBullet"
+    ]
+  },
+  "remoteKeypad": {
+    "prettyName": "Remote Keypad",
+    "cost": 18,
+    "level": 50,
+    "depends": [
+      "electronics"
+    ]
+  },
+  "lamppost": {
+    "prettyName": "Lamppost",
+    "cost": 20,
+    "level": 50,
+    "depends": [
+      "standingTorch"
+    ]
+  },
+  "inclinedElectricalCable": {
+    "prettyName": "Inclined Electrical Cable",
+    "cost": 16,
+    "level": 55,
+    "depends": [
+      "straightElectricalCable"
+    ]
+  },
+  "verticalElectricalCable": {
+    "prettyName": "Vertical Electrical Cable",
+    "cost": 16,
+    "level": 55,
+    "depends": [
+      "straightElectricalCable"
+    ]
+  },
+  "electricalCableIntersection": {
+    "prettyName": "Electrical Cable Intersection",
+    "cost": 24,
+    "level": 55,
+    "depends": [
+      "straightElectricalCable"
+    ]
+  },
+  "argentavisSaddle": {
+    "prettyName": "Argentavis Saddle",
+    "cost": 21,
+    "level": 55,
+    "depends": []
+  },
+  "brontoSaddle": {
+    "prettyName": "Bronto Saddle",
+    "cost": 21,
+    "level": 55,
+    "depends": []
+  },
+  "refrigerator": {
+    "prettyName": "Refrigerator",
+    "cost": 20,
+    "level": 55,
+    "depends": [
+      "largeStorageBox"
+    ]
+  },
+  "airConditioner": {
+    "prettyName": "Air Conditioner",
+    "cost": 21,
+    "level": 55,
+    "depends": [
+      "refrigerator"
+    ]
+  },
+  "c4RemoteDetonator": {
+    "prettyName": "C4 Remote Detonator",
+    "cost": 24,
+    "level": 55,
+    "depends": [
+      "electronics"
+    ]
+  },
+  "c4Charge": {
+    "prettyName": "C4 Charge",
+    "cost": 12,
+    "level": 55,
+    "depends": [
+      "improvisedExplosiveDevice"
+    ]
+  },
+  "assaultRifle": {
+    "prettyName": "Assault Rifle",
+    "cost": 24,
+    "level": 55,
+    "depends": [
+      "longneckRifle"
+    ]
+  },
+  "advanceRifleBullet": {
+    "prettyName": "Advance Rifle Bullet",
+    "cost": 8,
+    "level": 55,
+    "depends": [
+      "simpleRifleAmmo"
+    ]
+  },
+  "laserAttachment": {
+    "prettyName": "Laser Attachment",
+    "cost": 24,
+    "level": 55,
+    "depends": []
+  },
+  "holo-ScopeAttachment": {
+    "prettyName": "Holo-Scope Attachment",
+    "cost": 24,
+    "level": 55,
+    "depends": []
+  },
+  "behemothGateway": {
+    "prettyName": "Behemoth Gateway",
+    "cost": 28,
+    "level": 55,
+    "depends": [
+      "metalDinosaurGateway"
+    ]
+  },
+  "behemothGate": {
+    "prettyName": "Behemoth Gate",
+    "cost": 15,
+    "level": 55,
+    "depends": [
+      "behemothGateway",
+      "metalDinosaurGate"
+    ]
+  },
+  "rexSaddle": {
+    "prettyName": "Rex Saddle",
+    "cost": 40,
+    "level": 60,
+    "depends": []
+  },
+  "rocketLauncher": {
+    "prettyName": "Rocket Launcher",
+    "cost": 32,
+    "level": 60,
+    "depends": [
+      "longneckRifle"
+    ]
+  },
+  "rocketPropelledGrenade": {
+    "prettyName": "Rocket Propelled Grenade",
+    "cost": 8,
+    "level": 60,
+    "depends": [
+      "grenade"
+    ]
+  },
+  "autoTurret": {
+    "prettyName": "Auto Turret",
+    "cost": 40,
+    "level": 60,
+    "depends": [
+      "assaultRifle"
+    ]
+  }
+}
