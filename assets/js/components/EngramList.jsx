@@ -23,17 +23,13 @@ export default React.createClass({
 
   canLearn(engramKey) {
     let engram = this.state.engrams[engramKey];
-    return _.reduce(engram.depends, (can, depend) => _.includes(this.state.learned, depend), true);
+    return _.reduce(engram.depends, (can, depend) => can && _.includes(this.state.learned, depend), true);
   },
 
   canUnlearn(engramKey) {
-    let canUnlearn = true;
-
-    _.forEach(_.pick(this.state.engrams, this.state.learned), (learnedEngram, key) => {
-      canUnlearn = !_.includes(learnedEngram.depends, engramKey);
+    return !_.some(_.pick(this.state.engrams, this.state.learned), (learnedEngram) => {
+      return _.includes(learnedEngram.depends, engramKey);
     });
-
-    return canUnlearn;
   },
 
   learn(key) {
@@ -42,7 +38,7 @@ export default React.createClass({
     if (_.includes(this.state.learned, key) && this.canUnlearn(key)) {
       this.setState({learned: _.pull(this.state.learned, key)});
     } else if (this.canLearn(key)) {
-      this.setState({learned: this.state.learned.concat([key])});
+      this.setState({learned: this.state.learned.concat(key)});
     }
   },
 

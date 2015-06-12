@@ -7,7 +7,6 @@ const classNames = require('classnames');
 export default React.createClass({
 
   learn() {
-    if (!this.props.canLearn) return;
     this.props.learnCallback(this.props.slug);
   },
 
